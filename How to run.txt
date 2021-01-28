@@ -1,0 +1,9 @@
+to use this face recognition for your image dataset follow the steps:
+
+1) Install all the libraries using pip command.
+   (opencv,numpy,PIL,pickle)
+
+1) make a image dataset of atleast 10 images(per person) with their front face
+   and place it in images under a folder of name of that person.
+
+2) run main.py
